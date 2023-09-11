@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <link rel="stylesheet" href="style.css" id="careca.html">
+    <title>BARBEARIA DOS CARECAS</title>
+</head>
+<body>
+
+    
+         <img src="2.jpeg" alt="">
+<CENTER>          
+               <b><H1>Barbearia Dos Carecas</H1></b>
+            
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+</CENTER>
+     <img src="barbearia1.jpg" alt="" class="img4">
+
+
+
+
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br> <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br> <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+ <nav>
+
+    <ul class="menu">
+         <B> <li><a href="#">Home</a></li>
+
+          <li><a class="menusobre" href="#" title="sobre">sobre</a>
+                
+                   <ul>
+                        <li><a class="menusobre" href="#sobre" title="sobre">Informações</a>
+                        <li><a href="https://shre.ink/atS7" target="_blank">localização</a></li>
+
+                     </ul>
+              </li>
+          <li><a href="file:///C:/Users/Pc/OneDrive/%C3%81rea%20de%20Trabalho/barbearia/cortes.html" target="_blank">Cortes</a></li>
+            
+          <li ><a href="#">Contato</a>
+            <ul>
+                <li><a href="https://www.instagram.com/" target="_blank">INSTAGRAN</a></li>
+                <li><a href="https://web.whatsapp.com/" target="_blank">WHATSAPP</a></li>
+                <li><a href="https://www.facebook.com/" target="_blank">FACEBOOK</a></li>
+             </ul>
+      </li>
+        </li></B>
+  </ul>
+  </nav>
+
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+
+  <B>  
+    <P id="sobre">Imformações</P> </B>
+
+
+
+    <h4>A Barbearia dos Carecas é um estabelecimento moderno e acolhedor que oferece serviços de alta qualidade para homens que apreciam um bom corte de cabelo e barba.
+         Com uma equipe de profissionais experientes e atenciosos, a Barbearia dos Carecas é conhecida por seu atendimento personalizado e pela habilidade em trabalhar 
+         com diferentes tipos de cabelo e barba.
+          O ambiente descontraído e amigável torna a experiência de ir à barbearia ainda mais agradável. Se você está procurando por um lugar confiável para cuidar do seu visual,
+           a Barbearia dos Carecas é a escolha certa. Venha nos visitar e sinta-se em casa!</h4>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    
+
+</body>
+</html> 
+
+
+
+
+<!DOCTYPE html >
+<html lang="pt">
+<head>
+    <link rel="stylesheet" href="style.css" id="cortes.html">
+    <title >cortes</title>
+</head>
+<body>
+    <img src="2.jpeg" alt="">
+    <CENTER>     
+         
+                   <b><H1 class="h">Cortes</H1></b>
+
+    </CENTER>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+ 
+
+           
+         <nav>
+            <ul class="menu">
+
+            <B> <li><a href="#file:///C:/Users/Pc/OneDrive/%C3%81rea%20de%20Trabalho/barbearia/barbearia%20dos%20careca.html#" >Home</a></li>       
+            <li ><a href="#">Cortes Masculinos</a>
+                    <ul>
+                        <li><a href="#undercut" >Undercut</a></li>
+                        <li><a href="#top knot" >Top knot</a></li>
+                        <li><a href="#pompadour" >Pompadour</a></li>
+                        <li><a href="#militar" >Militar</a></li>
+                        <li><a href="#moicano" >Moicano</a></li>
+                        <li><a href="#surfista" >Surfista</a></li>
+                        <li><a href="#razor part" >Razol Part</a></li>
+                        <li><a href="#asa delta" >Asa Delta</a></li>
+
+                        
+
+                     </ul>
+            </li>
+
+              <li><a href="#cortesb" >Cortes De Barba</a>
+                 <ul>
+                    <li><a href="#undercut" >Undercut</a></li>
+                    <li><a href="#top knot" >Top knot</a></li>
+                    <li><a href="#pompadour" >Pompadour</a></li>
+                    <li><a href="#militar" >Militar</a></li>
+                    <li><a href="#moicano" >Moicano</a></li>
+                    <li><a href="#surfista" >Surfista</a></li>
+                    <li><a href="#razor part" >Razol Part</a></li>
+                    <li><a href="#asa delta" >Asa Delta</a></li> 
+                 </ul>
+                 </li>
+
+                </li></B>
+          </ul>
+          </nav>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>        
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <b><h2>Cortes De Cabelo</h2></b>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+        
+        <img src="undercut.jpeg" alt="" class="img3" id="undercut">
+        <b><p class="p1">Undercut</p></b>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <img src="top knot.jpg" alt="" class="img2" id="top knot">
+        <b><p class="p2">Top Knot</p></b>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <img src="Pompadour.jpg" alt="" class="img2" id="pompardour">
+        <b><p class="p2">Pompadour</p></b>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <img src="militar.jpeg" alt="" class="img3" id="militar">
+        <b><p class="p1">Militar</p></b>
+        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <img src="Moicano.jpeg" alt="" class="img3" id="moicano">
+        <b><p class="p1">Moicano</p></b>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <img src="Surfista.jpeg" alt="" class="img2" id="surfista">
+        <b><p class="p2">Surfista</p></b>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <img src="Razor part.jpg" alt="" class="img2" id="razor part">
+        <b><p class="p2">Razor Part</p></b>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <img src="Asa delta.jpg" alt="" class="img2" id="asa delta">
+        <b><p class="p2">Asa Delta</p></b>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>        
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <b><h2>Cortes De Barba</h2></b>
+
+        
+
+
+        
+
+        
+
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+.menu{
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.img3{
+    
+    float: left;
+    margin-left: 40PX;
+    height: 250px;
+    width: 400px;
+}
+
+.img2{
+    
+    float: left;
+    margin-left: 40PX;
+    height: 250px;
+}
+
+
+.h{
+    background-color: black;
+    height: 120px;
+    width: 800px;
+    margin: 50px;
+    float: center;
+    color: yellow;
+    border: dotted;
+    }
+
+
+
+.p1{
+    margin-left: 500px;
+    font-size: 30px;
+    
+}
+
+.p2{
+    margin-left: 250px;
+    font-size: 30px;
+    
+}
+
+h4{
+    margin: 40px;
+    float: left;
+    background-color:rgb(235, 235, 125) ;
+    height: 120px;
+    width: 1100px;
+    font-size: 25px;
+}
+
+h1{
+margin-bottom: 100px;
+background-color: black;
+height: 120px;
+width: 1100px;
+margin: 50px;
+font-size: 5vw; 
+float: center;
+color: yellow;
+border: dotted;
+}
+
+img{
+    border: 10PX solid black;
+    float: right;
+    margin-right: 20PX;
+}
+
+.img4{
+    border: 10PX solid black;
+    
+    height: 400px;
+    width: 800px;
+    margin-right: 500PX;
+}
+  
+
+.menu li a{color:#333; text-decoration:none; padding:5px 10px; display:block;}
+
+.menu li a:hover{
+background:#333;
+color:#fff;
+
+text-shadow:0px 0px 5px yellow;
+}
+
+*{margin: 0; padding: 0;}
+
+body{
+    background-color: rgb(253, 251, 138);
+    font-family: arial, helvetica, sans-serif;
+    margin: 40;
+    }
+
+.menu li ul li{
+    border:1px solid BLACK;
+    display:block;
+    width:150px;
+    margin: 40;
+    
+    }
+
+.menu li:hover ul, .menu li.over ul{display:block;}
+
+.menu li  ul{
+    position:absolute;
+    top:25px;
+    left:0;
+    background-color:#fff;
+    display:none;
+    margin: 40;
+    }
+
+    .menu li{
+        position:relative;
+        float:left;
+        border-right:1px solid black;
+        margin: 40;
+        }
+
+        *{margin: 0; padding: 0;}
+
+
+
+.menu{
+list-style:none;
+border:2px solid black;
+float:left;
+background-color: moccasin;
+margin: 40;
+}
+
+
+P {
+    margin: 40PX;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 40px;
+}
+
+
+h2 {
+margin-left: 40px;
+font-size: 40px;
+margin-bottom: 100px;
+background-color: black;
+height: 50px;
+width: 350px;
+margin: 50px;
+float: left;
+color: yellow;
+border: dotted;
+}
+
+
+
+   
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
